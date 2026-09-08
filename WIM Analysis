@@ -1,0 +1,136 @@
+C:\Users\svianadze\PycharmProjects\WelcomeScreen\.venv\Scripts\python.exe C:\Users\svianadze\PycharmProjects\WelcomeScreen\script3.py 
+path      : C:\Users\svianadze\OneDrive - zag.si\Desktop\Task for WIM\03_Terenske meritve\surovi podatki
+exists    : True
+is folder : True
+
+Everything in the folder:
+  FILE  dilatacije_2026_09_03_113932.dxd   62.8 MB
+  FILE  dilatacije_2026_09_03_114303.dxd   123.5 MB
+  FILE  dilatacije_2026_09_03_115328.dxd   262.7 MB
+  FILE  dilatacije_2026_09_03_115857.dxd   109.9 MB
+  FILE  dilatacije_2026_09_03_120120.dxd   377.3 MB
+  FILE  dilatacije_2026_09_03_120840.dxd   708.1 MB
+  FILE  dilatacije_2026_09_03_122309.dxd   935.2 MB
+  FILE  dilatacije_2026_09_03_124033.dxd   462.0 MB
+  FILE  dilatacije_2026_09_03_124910.dxd   629.3 MB
+
+.dxd files found: 9
+
+=== dilatacije_2026_09_03_113932.dxd   duration 67.1 s   start 2026-09-03 09:39:34.533049+00:00 ===
+   'ch 1'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=   1342720  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=     67136  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_114303.dxd   duration 133.4 s   start 2026-09-03 09:43:05.326498+00:00 ===
+   'ch 1'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=   2667680  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    133384  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_115328.dxd   duration 284.3 s   start 2026-09-03 09:53:30.097651+00:00 ===
+   'ch 1'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=   5686720  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    284336  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_115857.dxd   duration 118.4 s   start 2026-09-03 09:58:59.955701+00:00 ===
+   'ch 1'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=   2368160  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    118408  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_120120.dxd   duration 409.2 s   start 2026-09-03 10:01:22.764602+00:00 ===
+   'ch 1'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=   8184000  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    409200  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_120840.dxd   duration 768.2 s   start 2026-09-03 10:08:42.606949+00:00 ===
+   'ch 1'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=  15364800  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    768240  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_122309.dxd   duration 1015.8 s   start 2026-09-03 10:23:10.789054+00:00 ===
+   'ch 1'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=  20315200  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=   1015760  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_124033.dxd   duration 501.6 s   start 2026-09-03 10:40:35.144052+00:00 ===
+   'ch 1'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=  10032480  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    501624  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+=== dilatacije_2026_09_03_124910.dxd   duration 683.1 s   start 2026-09-03 10:49:12.963202+00:00 ===
+   'ch 1'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 2'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 3'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 4'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 5'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 6'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 7'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 8'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 9'                                   unit='um/m'     n=  13661280  ~   20000 Hz
+   'ch 10'                                  unit='um/m'     n=    683064  ~    1000 Hz
+   'Dogodki podatkov'                       unit='-'        n=         1  ~       0 Hz
+
+Process finished with exit code 0
