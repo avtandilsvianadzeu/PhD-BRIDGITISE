@@ -1,0 +1,41 @@
+from pathlib import Path
+import dwdatareader as dw
+
+RAW = Path(r"C:\Users\svianadze\OneDrive - zag.si\Desktop\Task for WIM\03_Terenske meritve\surovi podatki")
+
+print("path      :", RAW)
+print("exists    :", RAW.exists())
+print("is folder :", RAW.is_dir())
+
+if not RAW.exists():
+    print("\nWalking up to find where it breaks:")
+    for parent in list(RAW.parents)[::-1]:
+        print(f"  {'OK  ' if parent.exists() else 'MISSING'}  {parent}")
+    raise SystemExit("Fix the path above and run again.")
+
+print("\nEverything in the folder:")
+for item in sorted(RAW.iterdir()):
+    kind = "DIR " if item.is_dir() else "FILE"
+    size = item.stat().st_size / 1e6 if item.is_file() else 0
+    print(f"  {kind}  {item.name}   {size:.1f} MB")
+
+files = sorted(RAW.glob("*.dxd"))
+print(f"\n.dxd files found: {len(files)}")
+if not files:
+    raise SystemExit("No .dxd files at this path.")
+
+for f in files:
+    try:
+        # Use dw.DWFile() to read Dewesoft .dxd records
+        with dw.DWFile(str(f)) as d:
+            duration = getattr(d.info, "duration", 0)
+            start_time = getattr(d.info, "start_store_time", "N/A")
+            print(f"\n=== {f.name}   duration {duration:.1f} s   start {start_time} ===")
+
+            for name, ch in d.items():
+                n = getattr(ch, "number_of_samples", 0)
+                fs = n / duration if duration else float("nan")
+                unit = getattr(ch, "unit", "")
+                print(f"   {name!r:40s} unit={unit!r:10s} n={n:>10d}  ~{fs:8.0f} Hz")
+    except Exception as e:
+        print(f"\n!!! {f.name} failed to open: {type(e).__name__}: {e}")
